@@ -5,6 +5,19 @@ body{
 	margin: 0;
 	padding-left: 25%;
 }
+.Steph-Curry{
+	background-color: none;
+	color: white;
+}
+
+.Steph-Curry nav{
+	max-width: 800px;
+}
+
+.Steph-Curry nav a {
+	color: white;
+	text-decoration: none;
+}
 
 img{
 	max-width: 100%;
