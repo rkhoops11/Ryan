@@ -1,0 +1,11 @@
+body{
+	color: blue;
+	background: black; 
+	background: cover;
+	margin: 0;
+	padding-left: 25%;
+}
+
+img{
+	max-width: 100%;
+}
